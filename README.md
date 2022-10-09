@@ -7,7 +7,7 @@ T.F : 6명 (각자 심리테스트 모듈 개발 후, Index 페이지에서 링�
 
 <br/>
 사용된 언어 :Java, Javascript, html, css, jquery
-DB : mysql
+<br/>DB : mysql
 <br/>
 
 <br/>
