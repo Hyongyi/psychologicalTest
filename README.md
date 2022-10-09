@@ -6,9 +6,9 @@ T.F : 6명 (각자 심리테스트 모듈 개발 후, Index 페이지에서 링�
 기간 : 2022-09-12 ~ 2022-09-19 <br/>
 
 <br/>
-사용된 언어 :Java, Javascript, html, css, jquery
-<br/>DB : mysql
-<br/>
+사용된 언어 :Java, Javascript, html, css, jquery<br/>
+사용된 DB : mysql<br/>
+
 
 <br/>
 '나는 프론트 엔드와 백엔드 중 어떤 개발자가 더 어울릴까'라는 주제로 HTML/CSS/JavaScript/jquery를 이용하여 프론트를 구성했고<br/>
